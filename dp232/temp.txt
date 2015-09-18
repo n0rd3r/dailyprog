@@ -1,0 +1,79 @@
+Alabama Oncology    ADT 167 0   0   25  2
+Berenson    ADT 906 0   0   0   0
+Beverly Hills Onc Med Group ADT 134 0   0   8   3
+Beverly Hills Onc Med Group DFT 27  0   0   14  14
+Cancer and Blood Specialists of Neva    ADT 618 0   0   32  18
+Cancer and Blood Specialists of Neva    DFT 317 0   0   317 317
+Cancer Care Northwest   ADT 749 0   0   19  7
+Cancer Center Assoc of Carolina ADT 136 0   0   1   0
+Cancer Center Assoc of Carolina DFT 50  0   0   50  50
+cCare Fresno    ADT 372 0   0   10  9
+cCare San Diego ADT 7437    0   0   10  2
+cCare San Diego SIU 8601    0   23  224 30
+Centra Health   ADT 597 0   0   8   3
+Centra Health   DFT 172 0   0   172 172
+Central Illinois    ADT 41  0   0   0   0
+Central Illinois    DFT 0   0   0   0   0
+Central Illinois    SIU 41  0   0   14  5
+Clearview Cancer Institute  ADT 1244    0   0   22  22
+Clearview Cancer Institute  RDE 961 0   0   620 620
+Clearview Cancer Institute  SIU 2233    0   0   289 0
+Dayton Physicians, LLC  ADT 4013    0   0   74  9
+Dayton Physicians, LLC  SIU 2460    0   0   679 4
+Dreyer Medical Clinic   ADT 4026    0   0   169 39
+Ft Wayne Med Onc Hem Inc    ADT 2095    0   0   23  28
+Ft Wayne Med Onc Hem Inc    DFT 329 0   0   329 329
+Ft Wayne Med Onc Hem Inc    MAR 407 0   0   322 322
+Ft Wayne Med Onc Hem Inc    RDE 523 0   0   377 0
+Ft Wayne Med Onc Hem Inc    SIU 1003    0   0   136 0
+Health Care Partners of Nevada  ADT 506 0   0   14  3
+Health Care Partners of Nevada  DFT 159 0   0   157 157
+Hem Onc Care of N Virginia  ADT 0   0   0   -28 -129
+Hem Onc Care of N Virginia  RDE 190 0   0   69  0
+Hem Onc Care of N Virginia  SIU 0   0   0   0   0
+Hem Onc of the North Shore  ADT 102 0   0   0   0
+Illinois Cancer Care PC ADT 5234    0   0   29  6
+Iowa Cancer Specialists ADT 29  0   0   1   0
+Iowa Cancer Specialists DFT 68  0   0   66  66
+Iowa Cancer Specialists RDE 92  0   0   92  92
+Michigan Healthcare Prof. - 103 ADT 1187    0   0   13  0
+Michigan Healthcare Prof. - 103 DFT 205 0   0   205 205
+Michigan Healthcare Prof. - 103 SIU 1021    0   0   161 452
+Michigan Healthcare Prof. - 204 ADT 1437    0   0   1437    1437
+Michigan Healthcare Prof. - 204 SIU 748 0   1   84  8
+Northwest Medical Systems   ADT 318 0   1   42  3
+Northwest Medical Systems   DFT 1   0   0   1   1
+Northwest Oncology  ADT 421 0   0   7   1
+Northwest Oncology  DFT 148 0   0   148 148
+Northwest Oncology  RDE 335 0   0   157 178
+Northwest Oncology  SIU 335 0   0   40  0
+Pacific Cancer Care ADT 181 0   0   6   3
+Pacific Cancer Care MAR 104 0   0   86  86
+Pacific Cancer Care RDE 190 0   0   90  90
+Pacific Cancer Care SIU 19157   0   0   87  0
+Progressive SC  ADT 131 0   0   1   0
+Progressive SC  SIU 422 0   0   55  0
+Providence Health & Services    ADT 237 0   0   8   1
+Salinas Valley Med Center   ADT 413 0   0   6   8
+Salinas Valley Med Center   MAR 59  0   0   48  48
+Salinas Valley Med Center   RDE 150 0   0   60  60
+Salinas Valley Med Center   SIU 272 0   0   38  0
+South Carolina Oncology Assoc.  ADT 379 0   0   31  43
+South Carolina Oncology Assoc.  MAR 12  0   0   12  12
+South Carolina Oncology Assoc.  RDE 13  0   0   12  12
+South Carolina Oncology Assoc.  SIU 42797   0   0   148 0
+Southeast FL Hem Onc    ADT 341 0   0   0   4
+Southeast FL Hem Onc    DFT 64  0   6   58  58
+Southeast FL Hem Onc    SIU 72  0   0   23  22
+Tennessee Cancer    ADT 1922    0   0   22  11
+Tennessee Cancer    DFT 369 0   0   369 369
+Tennessee Cancer    SIU 3744    0   0   365 0
+Tennessee Oncology, PLLC    ADT 3502    0   0   83  22
+Tennessee Oncology, PLLC    DFT 1553    0   0   1553    1553
+Tennessee Oncology, PLLC    RDE 1600    0   0   1600    1600
+Tennessee Oncology, PLLC    SIU 1889    0   1   556 1044
+University Cancer Institute, LLC    ADT 10  0   0   1   1
+VitalConnect Dev    XML 1   0   0   1   1
+VitalConnect Prod   XML 1   0   0   1   1
+Weirton Medical Center  ADT No Report   0   0   -76 -6
+Weirton Medical Center  DFT No Report   0   0   -3917   -3917
