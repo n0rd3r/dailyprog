@@ -47,4 +47,3 @@ Bonus
 
 A two-word palindrome is (unsurprisingly) a palindrome that is two words long. "Swap paws", "Yell alley" and "sex axes" (don't ask) are examples of this.
 Using words from /r/dailyprogrammer's favorite wordlist enable1.txt, how many two-word palindromes can you find? Note that just repeating the same palindromic word twice (i.e. "tenet tenet") does not count as proper two-word palindromes.
-
